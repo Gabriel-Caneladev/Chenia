@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dfe9d4"/>
+      <stop offset="1" stop-color="#b7cdb0"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4e8a6b"/>
+      <stop offset="1" stop-color="#2f5d4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <circle cx="470" cy="170" r="120" fill="#e6efc4" opacity=".7"/>
+  <g fill="#8fb394" opacity=".55">
+    <path d="M60 800c-10-120 20-220 90-300 20 90 10 200-30 300z"/>
+    <path d="M540 800c14-130-10-230-70-310-26 100-10 210 20 310z"/>
+  </g>
+  <path d="M110 800c0-130 70-210 190-210s190 80 190 210z" fill="url(#body)"/>
+  <rect x="268" y="470" width="64" height="130" rx="30" fill="#e8c9b0"/>
+  <ellipse cx="300" cy="380" rx="92" ry="108" fill="#f0d5bf"/>
+  <path d="M206 372c-8-110 60-160 118-150 66 8 84 80 72 150-14-60-52-88-96-88-44 0-82 30-94 88z" fill="#3b2f27"/>
+  <text x="300" y="770" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="22" fill="#e6efd9" opacity=".8">sua foto aqui</text>
+</svg>
