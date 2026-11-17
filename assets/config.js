@@ -18,8 +18,8 @@ window.SITE = {
 
   // ---------- Contato ----------
   email: "contato@seusite.com.br",
-  phone: "+55 35 8847-9860",
-  whatsapp: "553588479860",                        // DDI + DDD + número, só dígitos
+  phone: "+55 00 00000000",                                    // DDI + DDD + número, só dígitos
+  whatsapp: "000000000000",                        // DDI + DDD + número, só dígitos
   whatsappMessage: "Olá, Chenia! Gostaria de agendar uma conversa.",
   cta: { label: "Agendar conversa" },              // href opcional; por padrão abre o WhatsApp
 
